@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>CST1909168.txt</title>
+</head>
+
+<body>
+<!--Site navigation menu-->
+<ul class="navbar">
+ <li><a href="index.html">Home page</a></li>
+ <li><a href="musings.html">Musings</a></li>
+ <li><a herf="town.html">My town</a></li>
+ <li><a herf="MyPPT.pptx">MyPPT.pptx</a><li>
+ <li><a herf="Mooncity.xlsx">Mooncity.xlsx</a></li>
+ <li><a herf="piechart.xlsx">piechart.xlsx</a></li>
+</ul>
+
+<!--Main content-->
+<p align="center"><img src="picture2.jpg"></p>
+<h1>My first styled page</h1>
+<p>Welcome to ma styled page!
+<p>It's my pleasure to meet you here!
+<!---->
+<adress>Made twenty December 2019<br>
+ by ZhangWei.</adress>
+</body>
+</html>
